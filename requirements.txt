@@ -1,0 +1,17 @@
+boto3
+pylint
+click
+pytest
+pytest-cov
+fastapi
+requests
+openai
+kaggle
+pandas
+numpy
+pyspark
+matplotlib
+plotly
+sklearn
+scipy
+streamlit
